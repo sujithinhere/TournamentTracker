@@ -1,0 +1,11 @@
+C:\Users\sujit_000\Desktop\C-SharpPractice\TournamentTracker\TournamentTrackerUI\bin\Debug\TournamentTrackerUI.exe.config
+C:\Users\sujit_000\Desktop\C-SharpPractice\TournamentTracker\TournamentTrackerUI\bin\Debug\TournamentTrackerUI.exe
+C:\Users\sujit_000\Desktop\C-SharpPractice\TournamentTracker\TournamentTrackerUI\bin\Debug\TournamentTrackerUI.pdb
+C:\Users\sujit_000\Desktop\C-SharpPractice\TournamentTracker\TournamentTrackerUI\obj\Debug\TournamentTrackerUI.csprojAssemblyReference.cache
+C:\Users\sujit_000\Desktop\C-SharpPractice\TournamentTracker\TournamentTrackerUI\obj\Debug\TournamentTrackerUI.TournamentTrackerMainForm.resources
+C:\Users\sujit_000\Desktop\C-SharpPractice\TournamentTracker\TournamentTrackerUI\obj\Debug\TournamentTrackerUI.Properties.Resources.resources
+C:\Users\sujit_000\Desktop\C-SharpPractice\TournamentTracker\TournamentTrackerUI\obj\Debug\TournamentTrackerUI.TournamentViewerForm.resources
+C:\Users\sujit_000\Desktop\C-SharpPractice\TournamentTracker\TournamentTrackerUI\obj\Debug\TournamentTrackerUI.csproj.GenerateResource.cache
+C:\Users\sujit_000\Desktop\C-SharpPractice\TournamentTracker\TournamentTrackerUI\obj\Debug\TournamentTrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\sujit_000\Desktop\C-SharpPractice\TournamentTracker\TournamentTrackerUI\obj\Debug\TournamentTrackerUI.exe
+C:\Users\sujit_000\Desktop\C-SharpPractice\TournamentTracker\TournamentTrackerUI\obj\Debug\TournamentTrackerUI.pdb
